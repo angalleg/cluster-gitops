@@ -1,0 +1,3 @@
+= cluster-gitops
+
+This documentation contains all the steps to deploy logging on an OpenShift Container Platform cluster, and use it to collect and aggregate node system audit logs, application container logs, and infrastructure logs. 
