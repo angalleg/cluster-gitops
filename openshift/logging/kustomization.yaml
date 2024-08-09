@@ -4,3 +4,4 @@ kind: Kustomization
 resources:
   - clo-operator
   - loki-operator
+  - logging-configuration
